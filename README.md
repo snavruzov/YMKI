@@ -12,7 +12,7 @@ https://realpython.com/python-lbyl-vs-eafp/
  - More:  https://habr.com/ru/company/simbirsoft/blog/572540/
 
 ## Python
- - GIL, multithreading:				https://habr.com/ru/post/84629/
+ - GIL, multithreading:				https://habr.com/ru/post/84629/, http://www.dabeaz.com/python/NewGIL.pdf
  - Inheritance, multiple inheritance:		https://www.geeksforgeeks.org/multiple-inheritance-in-python/, https://habr.com/ru/post/62203/
  - Metaclass:					https://habr.com/ru/post/145835/ 
  - Generators:					https://habr.com/ru/post/132554/
