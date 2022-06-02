@@ -4,6 +4,9 @@ You Must Know It
 ## LBYL vs EAFP: Preventing or Handling Errors in Python
 https://realpython.com/python-lbyl-vs-eafp/
 
+## Python Mock Object Library
+https://realpython.com/python-mock-library/
+
 ## Relational databases
  - Indexes (HASH, B-tree, GiST):  https://habr.com/ru/company/postgrespro/blog/326096/
  - Data normalization and denormalization:  https://habr.com/ru/post/254773/
@@ -12,14 +15,17 @@ https://realpython.com/python-lbyl-vs-eafp/
  - More:  https://habr.com/ru/company/simbirsoft/blog/572540/
 
 ## Python
+ - SOLID Principles In Python: https://www.hashbangcode.com/article/solid-principles-python
  - GIL, multithreading:				https://habr.com/ru/post/84629/, http://www.dabeaz.com/python/NewGIL.pdf
  - Inheritance, multiple inheritance:		https://www.geeksforgeeks.org/multiple-inheritance-in-python/, https://habr.com/ru/post/62203/
  - Metaclass:					https://habr.com/ru/post/145835/ 
  - Generators:					https://habr.com/ru/post/132554/
  - Context manager:				https://realpython.com/python-with-statement/
  - Decorators:					https://habr.com/post/141411/, https://habr.com/post/141501/
+ - Protocol, ABC: https://www.youtube.com/watch?v=xvb5hGLoK0A
  - Asyncio:					https://habr.com/ru/post/337420/
  - Another asyncio: https://www.youtube.com/watch?v=ZGfv_yRLBiY&list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8
+ - More Aysncio: https://realpython.com/async-io-python/
 
 ## Webserver
  - REST:							https://habr.com/ru/post/319984/
